@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component should render the header 1`] = `
+.c0 {
+  background-color: #c0c;
+}
+
+<main
+  class="c0"
+>
+  <h1>
+    react avancado
+  </h1>
+</main>
+`;
