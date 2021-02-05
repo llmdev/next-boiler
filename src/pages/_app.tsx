@@ -10,6 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>React Avancado - BoilerPLate</title>
         <link rel="shortcut icon" href="/img/favicon.ico" />
         <link rel="apple-touch-icon" href="/img/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content-="A simple react project" />
       </Head>
       <GlobalStyles />
